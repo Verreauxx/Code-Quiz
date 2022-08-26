@@ -2,6 +2,9 @@
 
 LINK FOR QUIZ: https://verreauxx.github.io/Code-Quiz/
 
+![image](https://user-images.githubusercontent.com/101163927/186826648-405d8eed-6fad-4b25-a77b-f7d78d94f986.png)
+
+
 GIVEN I am taking a code quiz
 
 WHEN I click the start button
